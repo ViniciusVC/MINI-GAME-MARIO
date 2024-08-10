@@ -3,3 +3,9 @@ Vamos juntar a Nostalgia do jogo do Mario com a jogabilidade do Dino do Google C
 
 Tutorial Completo 
 https://youtu.be/2_nbYVVoHR8
+
+
+## Fork Vinicius Valente
+Inclui o Sonic e o Mickey.
+
+![PrtScrPokemon](img/PrtScrgame.jpg "PrtScrPokemon")
